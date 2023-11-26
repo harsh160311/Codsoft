@@ -16,6 +16,7 @@ Build a Calculator app
 
 ## Live demo
 
-A live demo is available at 
+A live demo is available at  
+https://harsh160311.github.io/Calculator/
 
 ![Live demo](https://ik.imagekit.io/freshman/ezgif-5-abbedec67296_bOO8D3Dt714.gif)
