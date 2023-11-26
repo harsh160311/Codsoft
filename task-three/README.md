@@ -1,11 +1,9 @@
-# JavaScript Calculator Tutorial
+# calculator task
 
-Build a Calculator app with vanilla JavaScript.
-
-Tutorial: https://freshman.tech/calculator/
+Build a Calculator app 
 
 ## Live demo
 
-A live demo is available at https://freshman-calculator.surge.sh/
+A live demo is available at 
 
 ![Live demo](https://ik.imagekit.io/freshman/ezgif-5-abbedec67296_bOO8D3Dt714.gif)
